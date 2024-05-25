@@ -20,8 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: jwangiyATconnectAT[Dot]ust.hk
-      value: jwangiyATconnectAT[Dot]ust.hk
+      name: jwangiyATconnect[Dot]ust.hk
+      value: jwangiyATconnect[Dot]ust.hk
 
   follow:
     # - type: twitter
@@ -34,9 +34,9 @@ footer:
     # - type: linkedin
     #   name: LinkedIn
     #   link: http://linkedin.com/in/YourLinkedInUsername
-    # - type: github
-    #   name: GitHub
-    #   link: http://github.com/YourGitHubUsername
+    - type: github
+      name: GitHub
+      link: https://github.com/dboywjy
     # - type: dribbble
     #   name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
