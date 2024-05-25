@@ -20,29 +20,29 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: jwangiyATconnectAT[Dot]ust[Dot]hk
-      value: jwangiyATconnectAT[Dot]ust[Dot]hk
+      name: jwangiyATconnectAT[Dot]ust.hk
+      value: jwangiyATconnectAT[Dot]ust.hk
 
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+    # - type: twitter
+    #   name: Twitter
+    #   link: http://twitter.com/YourTwitterUsername
+    #   username: "@YourTwitterUsername"
+    # - type: facebook
+    #   name: Facebook
+    #   link: http://facebook.com/YourFacebookUsername
+    # - type: linkedin
+    #   name: LinkedIn
+    #   link: http://linkedin.com/in/YourLinkedInUsername
+    # - type: github
+    #   name: GitHub
+    #   link: http://github.com/YourGitHubUsername
+    # - type: dribbble
+    #   name: Dribbble
+    #   link: https://dribbble.com/YourDribbbleUsername
+    # - type: rss
+    #   name: RSS
+    #   link: /feed.xml
 
 # Build settings
 markdown: kramdown
