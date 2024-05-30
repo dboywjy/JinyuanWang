@@ -11,3 +11,7 @@ Welcome! This is my personal site. I am currently a Master student of Financial 
 </p>
 
 <h2 class="section-title">Education</h2>
+
+<p>
+Bsc.(Statistics) 
+</p>
