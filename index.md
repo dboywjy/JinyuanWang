@@ -10,6 +10,4 @@ profile_picture:
 Welcome! This is my personal site. I am currently a Master student of Financial Mathematics <a href="https://mafm.hkust.edu.hk/">(MAFM)</a> at HKUST. I obtained my Bachelor's degree in Statistics from Shanghai Tongji University in 2021. I am interested in Mathematics, Statistics, Machine Learning, Financial Engineering and looking for opportunities to gain more experience and insights in related fields.
 </p>
 
-<p>
-Education 
-</p>
+<h2 class="section-title">Education</h2>
