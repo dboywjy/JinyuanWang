@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/JinyuanWang" # the subpath of the site
 # url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
 url: "https://dboywjy.github.io"
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/blind_girl.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -32,9 +32,9 @@ footer:
     # - type: facebook
     #   name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
-    # - type: linkedin
-    #   name: LinkedIn
-    #   link: http://linkedin.com/in/YourLinkedInUsername
+    - type: linkedin
+      name: LinkedIn
+      link: https://www.linkedin.com/in/jinyuan-wang2357/
     - type: github
       name: GitHub
       link: https://github.com/dboywjy
