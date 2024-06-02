@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Blog
-slug: /blog
+# slug: /blog
 ---
 
-<!-- This is an example of a "Blog" page, displaying a list of posts.
-<br /> -->
+These are blogs I write and I will be appreciate it if we could discuss more about them.
+<br /> 
