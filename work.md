@@ -3,12 +3,12 @@ layout: work
 title: Work
 slug: /work
 items:
-   title: PU Learning
+  - title: PU Learning
     image:
       src: /assets/img/work/pulearning.png
       alt: pulearning
     description: PU learning (Positive and Unlabeled learning) is a binary classification setting where the training data consists of positive examples and unlabeled examples that may contain both positive and negative instances.
-   title: Financial Engineering
+  - title: Financial Engineering
     image:
       src: /assets/img/work/FM.png
       alt: FM
