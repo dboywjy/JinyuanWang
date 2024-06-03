@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/work/FM.png
       alt: FM
-    description: Using of mathematical techniques and computational tools to solve complex financial problems and design innovative financial products and strategies.
+    description: Using of mathematical techniques and computational tools to solve complex financial problems and design innovative financial products and strategies.[Quantitative LLM Replies to ETF and Investment Strategies](https://hkustconnect-my.sharepoint.com/:b:/g/personal/jwangiy_connect_ust_hk/EaqbJZiUSlNLoP3pvxBtRp8BQ80nCzhZqvracMaN_-3veA?e=cydYW6)
 ---
 
 These briefly summarize some of my work.
